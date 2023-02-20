@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "tanbv123@gmail.com",
+      "password": "$2a$10$Q9MOvmmeYeKbZSEpY.J2qe4cq7NCTapV2NPtg.WXtUU5H2BTSijLq",
+      "name": "Nguyen Van A",
+      "age": 20
+    },
+    {
+      "email": "tanbv@gmail.com",
+      "password": "12345678",
+      "name": "Bui Van A",
+      "age": 25,
+      "id": 2
+    },
+    {
+      "email": "tanbv@gmail123.com",
+      "password": "$2a$10$7TsR1sK/AiiSqGqMF9mEveiq7F4Ba/sLC7IocyKnrHviTDLALlWXO",
+      "name": "Bui Van A",
+      "age": 18,
+      "id": 3
+    },
+    {
+      "email": "quy@rikkei.com",
+      "password": "$2a$10$pglsxk7dokWNLLU9IA4xh.Ldt4ZXGwVqUs26za4IrI/qMoSHcNvj6",
+      "name": "Ngo Van Quy",
+      "age": "25",
+      "id": 4
+    }
+  ],
+  "students": [
+    {
+      "studentId": "SV001",
+      "studentName": "Nguyen Van A",
+      "age": 20
+    },
+    {
+      "studentId": "SV002",
+      "studentName": "Nguyen Van B",
+      "age": 22
+    }
+  ]
+}
